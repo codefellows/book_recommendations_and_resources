@@ -13,6 +13,8 @@ or corrections. Link legal free resources if possible, no affiliate links.
     * Everything from data representation to functions as first class object.
   * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
     * Great book series on all the things you probably have yet to learn about JS
+  * [ng-book](https://www.ng-book.com/)
+    * All the stuff you wish was in the official docs.
 
 ## Funcitonal Programming
 ### Erlang
