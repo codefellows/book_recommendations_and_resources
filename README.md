@@ -18,11 +18,13 @@ or corrections. Link legal free resources if possible, no affiliate links.
 ### Erlang
   * [Learn You Some Erlang](http://learnyousomeerlang.com/)
     * Great intro to this odd functional language.
+ 
 ### Lisp/Scheme
   * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
     * Everything you never wanted to know about recursion, plus a new language!
   * [Land of Lisp](http://landoflisp.com/)
     * This book is awesomely entertaining, read it.
+
 ### Haskell
   * [Learn You a Haskell](http://learnyouahaskell.com/)
     * pretty decent
